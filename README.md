@@ -1,4 +1,5 @@
 # Video-Broadcast-and-Chat
+Multi user video broad cast and chat with python socket programming.
 
 Server can broadcast a video stream to clients. Clients can watch the video stream and at the same time they can chat with each others.
 
